@@ -1,0 +1,30 @@
+{
+  "name": "Progress Pigeon",
+  "short_name": "Progress Pigeon",
+  "description": "Gym workout tracker — log sets, track PRs, see progress",
+  "start_url": "/Progress-Pigeon/",
+  "scope": "/Progress-Pigeon/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070d0d",
+  "theme_color": "#070d0d",
+  "icons": [
+    {
+      "src": "web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
