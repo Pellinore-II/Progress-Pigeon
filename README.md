@@ -1,4 +1,4 @@
-# Iron Log — Gym Tracker PWA
+# Progress Pigeon — Gym Tracker PWA
 
 A mobile-first progressive web app for logging workouts, tracking PRs, and visualizing progress.
 
